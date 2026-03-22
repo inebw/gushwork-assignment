@@ -1817,7 +1817,7 @@ h1 {
 
 .modal-box {
   background: #fff;
-  width: 400px;
+  width: 450px;
   border-radius: 12px;
   overflow: hidden;
   animation: slideUp 0.3s ease;
@@ -1833,7 +1833,10 @@ h1 {
 
 .close-modal {
   font-size: 18px;
+  padding: 5px 15px;
+  border-radius: 6px;
   cursor: pointer;
+  border: solid 1px #e5e7eb;
 }
 
 .modal-form {
